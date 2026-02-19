@@ -1,9 +1,3 @@
-# Here’s a clean README.md you can directly copy into your repository. You can edit names or add projects later.
-🐍 Python Learning Journey – Core to Matplotlib
-📌 Overview
-This repository contains my learning progress in Python programming, starting from core fundamentals and extending up to data visualization using Matplotlib.
-The goal of this repository is to practice concepts step-by-step, build strong programming fundamentals, and apply them through examples and mini exercises.
-🚀 What I Have Learned
 ✅ Python Basics
 Variables and Data Types
 Input & Output operations
